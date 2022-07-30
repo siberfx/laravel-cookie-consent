@@ -2,6 +2,74 @@
 
 All notable changes to `cookie-consent` will be documented in this file
 
+## 3.2.2 - 2022-06-03
+
+### What's Changed
+
+- ✨ feat(locale): add `th` locale(Thailand language) by @izcream in https://github.com/spatie/laravel-cookie-consent/pull/181
+
+### New Contributors
+
+- @izcream made their first contribution in https://github.com/spatie/laravel-cookie-consent/pull/181
+
+**Full Changelog**: https://github.com/spatie/laravel-cookie-consent/compare/3.2.1...3.2.2
+
+## 3.2.1 - 2022-04-22
+
+## What's Changed
+
+- add note about cookie domain to docs by @blite in https://github.com/spatie/laravel-cookie-consent/pull/180
+- Add contrast on text, anchor -> button by @blite in https://github.com/spatie/laravel-cookie-consent/pull/179
+
+## New Contributors
+
+- @blite made their first contribution in https://github.com/spatie/laravel-cookie-consent/pull/180
+
+**Full Changelog**: https://github.com/spatie/laravel-cookie-consent/compare/3.2.0...3.2.1
+
+## 3.2.0 - 2022-01-14
+
+- support Laravel 9
+
+## 3.1.2 - 2021-08-19
+
+- fix translation
+
+## 3.1.1 - 2021-05-28
+
+- added bengali translation (#160)
+
+## 3.1.0 - 2021-05-27
+
+- use TailwindCSS styling by default (#158)
+
+## 3.0.1 - 2021-05-06
+
+- update norwegian
+
+## 3.0.0 - 2021-03-26
+
+- require PHP 8.0+
+- drop support for PHP 7.x
+- convert syntax to PHP 8 where appropriate
+- implement spatie/laravel-package-tools
+
+## 2.12.13 - 2021-02-26
+
+- add Vietnamese
+
+## 2.12.12 - 2021-01-29
+
+- add Macedonian translation (#139)
+
+## 2.12.11 - 2020-12-11
+
+- add Bulgarian translation (#137)
+
+## 2.12.10 - 2020-11-28
+
+- add support for PHP 8
+
 ## 2.12.9 - 2020-09-09
 
 - Support Laravel 8
